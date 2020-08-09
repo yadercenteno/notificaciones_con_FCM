@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mensaje</string>
+    <string name="mensajes_firebase">Datos recibidos de Firebase Cloud Messaging:</string>
+    <string name="msg_token_fmt">Token</string>
+    <string name="msg_subscribed">Suscrito correctamente</string>
+    <string name="msg_subscribe_failed">Suscripcion al tema fallo!</string>
+</resources>
